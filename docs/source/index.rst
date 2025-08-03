@@ -40,6 +40,7 @@ ShadowFI provides both a CLI and GUI interfaces to automate the configuration an
    This project is under active development. The documentation is a work in progress 
    and may not cover all features or configurations yet. Contributions are welcome!
 
+
 Contents
 --------
 
