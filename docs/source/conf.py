@@ -34,3 +34,12 @@ html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+
+html_context = {
+    'display_github': True,
+    'github_user': 'divadnauj-GB',
+    'github_repo': 'shadowfi',
+    'github_version': 'main',
+    'conf_py_path': '/',
+}

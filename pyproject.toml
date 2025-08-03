@@ -5,6 +5,6 @@ requires = ["flit_core >=3.2,<4",
 build-backend = "flit_core.buildapi"
 
 [project]
-name = "lumache"
+name = "ShadowFi"
 authors = [{name = "Juan David Guerrero", email = "juan.guerrero@polito.it"}]
 dynamic = ["version", "description"]

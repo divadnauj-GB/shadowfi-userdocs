@@ -16,14 +16,15 @@ the target components or hardware structures subject of evaluation.
 
 .. note::
 
-   This project is under active development. The documentation is a work in progress and may not cover all features or configurations yet. Contributions are welcome!
+   This project is under active development. The documentation is a work in progress 
+   and may not cover all features or configurations yet. Contributions are welcome!
 
 Contents
 --------
 
 .. toctree::
 
-   README.md
+   usage
    examples
    tutorials
    configuration
