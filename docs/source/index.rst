@@ -1,22 +1,29 @@
-Welcome to Lumache's documentation!
-===================================
+Welcome to ShadowFI's documentation!
+====================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+SHADOWFI is an emulation-based fault injection framework for fault 
+chareacterization and reliability assesemnt of hardware designs. 
+SHADOWFI leverages the acceleration capabilities of hiperscale infrastructures 
+providing support for executing long fault injection 
+tasks in both High Performance Computing (HPC) and FPGA hiperscaler systems.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+SHADOWFI implements fault instrumentation by inserting saboteur circuits 
+directly on syntesizable HDL designs. This instrumentation is applied 
+automatically based on user configurations, providing flexibility regarding 
+the target components or hardware structures subject of evaluation.
+
+
 
 .. note::
 
-   This project is under active development.
+   This project is under active development. The documentation is a work in progress and may not cover all features or configurations yet. Contributions are welcome!
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   README.md
+   examples
+   tutorials
+   configuration

@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'ShadowFI'
+copyright = '2025, Juan David Guerrero Balaguera'
+author = 'Juan David Guerrero Balaguera'
 
-release = '0.1'
-version = '0.1.0'
+release = '1.0.1'
+version = '1.0'
 
 # -- General configuration
 
@@ -17,6 +17,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'myst_parser'
 ]
 
 intersphinx_mapping = {
